@@ -10,7 +10,7 @@ url: "https://chibicode.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-# baseurl: "/duo/"
+baseurl: "/reimagine/"
 
 # Twitter IDs
 twitter:
