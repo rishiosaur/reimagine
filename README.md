@@ -1,5 +1,7 @@
 **Reimagine** is the IBMYP Community Project of Rishi Kothari and Dev Patel.
 
+![](/static/images/logo.png)
+
 ## Hello!
 Welcome to your website for the Reimagine Project. Here, you'll be able to contact any one of us, learn more about the project, and order a computer! You can see the blog and project details down below.
 

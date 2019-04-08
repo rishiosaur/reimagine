@@ -49,14 +49,16 @@
         </section>
       {% else %}
         <section class="pv2">
-          <h1 class="mt0 mb1">{{page.title}}</h1>
-          {% if page.date %}
-            <p class="silver mt0">
-              <time datetime="{{ page.date | date_to_xmlschema }}">
-                {{page.date | date: site.date_format }}
-              </time>
-            </p>
-          {% endif %}
+            <header class="bg-gold sans-serif nl7 nr7">
+                <div class="mw9 center pa4 pt5-ns ph7-l">
+                  <h3 class="f2 f1-m f-headline-l measure-narrow lh-title mv0">
+                    <span class="bg-black-90 lh-copy white pa1 tracked-tight">
+                      {{page.title}}
+                    </span>
+                  </h3>
+                  <h4 class="f3 fw1 georgia i">{{page.description}}</h4>
+                </div>
+              </header>
           <!--<p class="twitter-share-button-wrapper">
             <a class="twitter-share-button"
             href="https://twitter.com/intent/tweet"
@@ -124,6 +126,9 @@
           </ul>
         </section>
       {% endif %}
+      <footer class="pv4 ph3 ph5-m ph6-l">
+          <small class="f6 db">Made with ❤️ + Code by <a class="no-underline bg-{{ site.brand_color }}">@rishiosaur</a></small>
+        </footer>
     </main>
   </body>
 </html>
