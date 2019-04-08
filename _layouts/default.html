@@ -24,14 +24,14 @@
     {% feed_meta %}
     <link rel="stylesheet" href="{{ "/static/app.css" | relative_url }}">
     <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}" />
-    {% seo %}
+    <title>{{site.title}}</title>
   </head>
   <body>
     <main class="measure-wide center ph3 pt5 pb6">
       {% if is_home %}
-      <h1 class="mt0 mb4">
+      <h1>
       {% else %}
-      <h2 class="mt0 mb5">
+      <h2 class="mt0">
       {% endif %}
         <a
           href="{{ "/" | relative_url }}"
@@ -57,30 +57,31 @@
               </time>
             </p>
           {% endif %}
-          <p class="twitter-share-button-wrapper">
+          <!--<p class="twitter-share-button-wrapper">
             <a class="twitter-share-button"
             href="https://twitter.com/intent/tweet"
             data-size="large"
             data-via="{{ site.twitter.username }}">
             Tweet</a>
-          </p>
+          </p>-->
           {{content}}
-          {% if page.date %}
+          <!--{% if page.date %}
             <p class="silver">
               <time datetime="{{ page.date | date_to_xmlschema }}">
                 {{page.date | date: site.date_format }}
               </time>
             </p>
           {% endif %}
-        </section>
+          --></section><!--
         <hr />
         <section class="pv2">
           {% assign home = site.pages | where:"url","/" %}
           {{ home[0].content | markdownify }}
-        </section>
+        </section>-->
       {% endif %}
       {% if site.posts.size > 0 %}
         <hr />
+        <h2>Blog</h2>
         <section class="pv2">
           <ul class="list pl0">
           {% if is_home %}
@@ -106,12 +107,12 @@
               <li class="mt0 mb4">
                 <span class="silver db mb1">{{ post.date | date: site.date_format }}</span>
                 <h3 class="ma0">
-                  <a class=" no-underline" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                  <a class="no-underline" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
                 </h3>
               </li>
             {% endfor %}
             <li class="pt4 mt0 mb4">
-              <h2 class="ma0">
+              <h2>
                 <a
                 href="{{ "/" | relative_url }}"
                 class="no-underline bg-{{ site.brand_color }}">
@@ -124,34 +125,5 @@
         </section>
       {% endif %}
     </main>
-    <script>
-      var moreLink = document.querySelector('.js-more')
-      if (moreLink) {
-        document.querySelector('.js-more').addEventListener('click', function (e) {
-          e.preventDefault()
-          e.target.classList.add('dn')
-          e.target.classList.remove('dib')
-          document.querySelectorAll('.js-hidden').forEach(function (elt) {
-            elt.classList.remove('dn')
-          })
-        })
-      }
-    </script>
-    <script>window.twttr = (function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0],
-      t = window.twttr || {};
-      if (d.getElementById(id)) return t;
-      js = d.createElement(s);
-      js.id = id;
-      js.src = "https://platform.twitter.com/widgets.js";
-      fjs.parentNode.insertBefore(js, fjs);
-
-      t._e = [];
-      t.ready = function(f) {
-        t._e.push(f);
-      };
-
-      return t;
-    }(document, "script", "twitter-wjs"));</script>
   </body>
 </html>
