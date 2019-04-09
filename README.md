@@ -8,14 +8,14 @@ Welcome to your website for the Reimagine Project. Here, you'll be able to conta
 ## Get Started
 We've created a really simple application process to sign up for the Reimagine project. All that you have to do is open the <a href="https://docs.google.com/forms/d/e/1FAIpQLSccgv4tG1JWxQqhl1wDhPuTKBtxZwEG6N3dzu8N7FLyp5_SRA/viewform" class="no-underline bg-{{site.brand_color}}">Google Form</a> below, and fill it out! If we approve of your application, then we'll contact you within 5 days.<br>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSccgv4tG1JWxQqhl1wDhPuTKBtxZwEG6N3dzu8N7FLyp5_SRA/viewform" class="no-underline bg-{{ site.brand_color }}">Form</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSccgv4tG1JWxQqhl1wDhPuTKBtxZwEG6N3dzu8N7FLyp5_SRA/viewform" class="f6 no-underline br-pill ph3 pv2 mb2 dib black bg-{{site.brand_color}}">Register</a>
 
 ## The Team
 Reimagine is made up of Dev Patel and <a href="https://github.com/rishiosaur" class="no-underline bg-{{ site.brand_color }}">Rishi Kothari</a>, students in the International Baccalaureate Program at W. G. Davis Senior Public School.
 
-Dev Patel is a  
+**Dev Patel** is a bold person, who likes taking risks. He is going to Turner Fenton Secondary School, along with Rishi, and is learning many different programming languages.
 
-Rishi Kothari is a programmer by trade, but hacker by night. He loves to 
+**Rishi Kothari** is a programmer by trade, but hacker by night. He loves to code, and is a prominent of <a href="https://hackclub.com" class="no-underline bg-{{ site.brand_color }}">Hack Club</a>.
 
 ## Project Details
 We're doing this as part of our IB Community Project, which is a requirement in our cirriculum. For us, this meant following our interests as much as possible.
