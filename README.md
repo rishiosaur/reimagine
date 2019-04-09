@@ -8,7 +8,7 @@ Welcome to your website for the Reimagine Project. Here, you'll be able to conta
 ## Get Started
 We've created a really simple application process to sign up for the Reimagine project. All that you have to do is open the <a href="https://docs.google.com/forms/d/e/1FAIpQLSccgv4tG1JWxQqhl1wDhPuTKBtxZwEG6N3dzu8N7FLyp5_SRA/viewform" class="no-underline bg-{{site.brand_color}}">Google Form</a> below, and fill it out! If we approve of your application, then we'll contact you within 5 days.<br>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSccgv4tG1JWxQqhl1wDhPuTKBtxZwEG6N3dzu8N7FLyp5_SRA/viewform" class="f6 no-underline br-pill ph3 pv2 mb2 dib black bg-{{site.brand_color}}">Register</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSccgv4tG1JWxQqhl1wDhPuTKBtxZwEG6N3dzu8N7FLyp5_SRA/viewform" class="f6 no-underline ph3 pv2 mb2 tc dib black bg-{{site.brand_color}}">Register</a>
 
 ## The Team
 Reimagine is made up of Dev Patel and <a href="https://github.com/rishiosaur" class="no-underline bg-{{ site.brand_color }}">Rishi Kothari</a>, students in the International Baccalaureate Program at W. G. Davis Senior Public School.
@@ -32,3 +32,11 @@ Both of us are always ready to chat about the project. Here are some of the ways
 
 ### Twitter
 <a href="twitter.com/rishiosaur" class="no-underline bg-{{ site.brand_color }}">Rishi Kothari</a>
+
+<hr/>
+
+## Documents
+If you're more curious about the project and what it entails, you can check out our project documents at <a href="link goes here" class="no-underline bg-{{ site.brand_color }}">this link</a>. The folder is with all of our presentations, the notes that we've taken, as well as the proposals that we've created for the people that we've talked to.
+
+## Next Steps
+If you're a person that will be receiving a computer and have already filled out the form, you might enjoy looking through our blog. It includes our process journal, as well as useful information.
