@@ -22,7 +22,7 @@ Reimagine is made up of Dev Patel and <a href="https://github.com/rishiosaur" cl
       <div class="">
         <article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--{{site.brand_color}}">
             <div class="tc">
-                <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
+                <img src="/reimagine/static/images/rishi.png" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
                 <h1 class="f4">Rishi Kothari</h1>
                 <hr class="mw3 bb bw1 b--black-10">
             </div>
