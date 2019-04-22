@@ -36,7 +36,7 @@ Reimagine is made up of Dev Patel and <a href="https://github.com/rishiosaur" cl
       <div class="">
         <article class="mw5 center bg-white br3 pa3 pa4-ns mv3 ba b--{{site.brand_color}}">
             <div class="tc">
-                <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h3 w3 dib" title="Photo of a kitty staring at you">
+                <img src="/reimagine/static/images/dev.jpg" class="br-100 h3 w3 dib" title="Rishi Kothari">
                 <h1 class="f4">Dev Patel</h1>
                 <hr class="mw3 bb bw1 b--black-10">
             </div>
@@ -59,16 +59,19 @@ This not only benefits the community, but makes us happy as well!
 ## Contact 📫
 Both of us are always ready to chat about the project. Here are some of the ways that you can contact us.
 ### Email
-<a href="mailto:rishiosaur@gmail.com" class="bg-animate no-underline bg-{{ site.brand_color }}">Rishi Kothari</a> & 
-<a href="mailto:devpatel@gmail.com" class="bg-animate no-underline bg-{{ site.brand_color }}">Dev Patel</a>
+[Rishi Kothari](mailto:rishiosaur@gmail.com){:.bg-animate .no-underline .bg-{{site.brand_color}}} - rishiosaur@gmail.com 
+
+[Dev Patel](mailto:devpatel@gmail.com){:.bg-animate .no-underline .bg-{{site.brand_color}}} - devpatel@gmail.com
 
 ### Twitter
-<a href="https://twitter.com/rishiosaur" class="bg-animate no-underline bg-{{ site.brand_color }}">Rishi Kothari</a>
+[Rishi Kothari](https://twitter.com/rishiosaur){:.bg-animate .no-underline .bg-{{site.brand_color}}} - @rishiosaur
 
 ---
 
+{::comment}
 ## Documents 📎
 If you're more curious about the project and what it entails, you can check out our project documents at <a href="link goes here" class="bg-animate no-underline bg-{{ site.brand_color }}">this link</a>. The folder is with all of our presentations, the notes that we've taken, as well as the proposals that we've created for the people that we've talked to.
+{:/comment}
 
 ## Next Steps 🎓
 If you're a person that will be receiving a computer and have already filled out the form, you might enjoy looking through our blog. It includes our process journal, as well as useful information.
