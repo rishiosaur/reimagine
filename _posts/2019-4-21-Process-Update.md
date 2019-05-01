@@ -16,3 +16,5 @@ In order for the people that we donate computers to to understand their computer
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vHD5C6N9Q7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oJHBOsGDyQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Also, we taught them the basics of Linux, and installed Chrome on all of the machines. Fayaz was *very* interested in Ubuntu Linux, which is what we installed for him.

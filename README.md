@@ -56,6 +56,24 @@ The biggest interest for both of us is Computer Science and Software Engineering
 
 This not only benefits the community, but makes us happy as well!
 
+## Gallery
+<div class="pa3 mw9 center">
+  <div class="overflow-gallery w-100 overflow-x-scroll overflow-y-hidden mb4 bg-{{site.brand_color}}">
+      <div class="overflow-inner nowrap">
+          <figure class="hide-child dib mw-100 h-100 mh1 mv0 pa0 v-top overflow-hidden relative">
+              <img class="h-100 lazyload lazypreload" src="/reimagine/static/images/pic13.jpg">
+              <figcaption class="child sans-serif fw1 ma0 fw2 pa2 bg-black-40 white ws-normal mw-100 absolute bottom-0 left-0 right-0 pa1"><p class="pa0 ma0">Fayaz with his computer</p></figcaption>
+          </figure>
+          <figure class="hide-child dib mw-100 h-100 mh1 mv0 pa0 v-top overflow-hidden relative"><img class="h-100 lazyload lazypreload" src="/reimagine/static/images/pic4.jpg"><figcaption class="child sans-serif fw1 ma0 fw2 pa2 bg-black-40 white ws-normal mw-100 absolute bottom-0 left-0 right-0 pa1"><p class="pa0 ma0">Nishan and his computer</p></figcaption></figure>
+          <figure class="hide-child dib mw-100 h-100 mh1 mv0 pa0 v-top overflow-hidden relative"><img class="h-100 lazyload lazypreload" src="/reimagine/static/images/pic23.jpg"><figcaption class="child sans-serif fw1 ma0 fw2 pa2 bg-black-40 white ws-normal mw-100 absolute bottom-0 left-0 right-0 pa1"><p class="pa0 ma0">Computers from Zebra</p></figcaption></figure>
+          <figure class="hide-child dib mw-100 h-100 mh1 mv0 pa0 v-top overflow-hidden relative"><img class="h-100 lazyload lazypreload" src="/reimagine/static/images/pic25.jpg"><figcaption class="child sans-serif fw1 ma0 fw2 pa2 bg-black-40 white ws-normal mw-100 absolute bottom-0 left-0 right-0 pa1"><p class="pa0 ma0">ERROR!</p></figcaption></figure>
+          <figure class="hide-child dib mw-100 h-100 mh1 mv0 pa0 v-top overflow-hidden relative"><img class="h-100 lazyload lazypreload" src="/reimagine/static/images/website1.png"><figcaption class="child sans-serif fw1 ma0 fw2 pa2 bg-black-40 white ws-normal mw-100 absolute bottom-0 left-0 right-0 pa1"><p class="pa0 ma0">Website Prototype</p></figcaption></figure>
+      </div>
+  </div>
+  <p class="instructions"><small>Scroll right to view all images</small></p>
+</div>
+
+
 ## Contact 📫
 Both of us are always ready to chat about the project. Here are some of the ways that you can contact us.
 ### Email
@@ -77,20 +95,3 @@ If you're more curious about the project and what it entails, you can check out 
 If you're a person that will be receiving a computer and have already filled out the form, you might enjoy looking through our blog. It includes our process journal, as well as useful information.
 
 <span class="b">--Rishi Kothari, ca. 2019</span>
-
-<div class="pa3 mw9 center">
-  <div class="overflow-gallery w-100 overflow-x-scroll overflow-y-hidden mb4 bg-black">
-      <div class="overflow-inner nowrap">
-          <figure class="hide-child dib mw-100 h-100 mh1 mv0 pa0 v-top overflow-hidden relative">
-              <img class="h-100 lazyload lazypreload" src="/reimagine/static/images/pic13.jpg">
-              <figcaption class="child sans-serif fw1 ma0 fw2 pa2 bg-black-40 white ws-normal mw-100 absolute bottom-0 left-0 right-0 pa1"><p class="pa0 ma0">Fayaz with his computer</p></figcaption>
-          </figure>
-          <figure class="hide-child dib mw-100 h-100 mh1 mv0 pa0 v-top overflow-hidden relative"><img class="h-100 lazyload lazypreload" src="/reimagine/static/images/pic4.jpg"><figcaption class="child sans-serif fw1 ma0 fw2 pa2 bg-black-40 white ws-normal mw-100 absolute bottom-0 left-0 right-0 pa1"><p class="pa0 ma0">Nishan and his computer</p></figcaption></figure>
-          <figure class="hide-child dib mw-100 h-100 mh1 mv0 pa0 v-top overflow-hidden relative"><img class="h-100 lazyload lazypreload" src="/reimagine/static/images/pic23.jpg"><figcaption class="child sans-serif fw1 ma0 fw2 pa2 bg-black-40 white ws-normal mw-100 absolute bottom-0 left-0 right-0 pa1"><p class="pa0 ma0">Computers from Zebra</p></figcaption></figure>
-          <figure class="hide-child dib mw-100 h-100 mh1 mv0 pa0 v-top overflow-hidden relative"><img class="h-100 lazyload lazypreload" src="/reimagine/static/images/pic25.jpg"><figcaption class="child sans-serif fw1 ma0 fw2 pa2 bg-black-40 white ws-normal mw-100 absolute bottom-0 left-0 right-0 pa1"><p class="pa0 ma0">ERROR!</p></figcaption></figure>
-          <figure class="hide-child dib mw-100 h-100 mh1 mv0 pa0 v-top overflow-hidden relative"><img class="h-100 lazyload lazypreload" src="/reimagine/static/images/website1.png"><figcaption class="child sans-serif fw1 ma0 fw2 pa2 bg-black-40 white ws-normal mw-100 absolute bottom-0 left-0 right-0 pa1"><p class="pa0 ma0">Website Prototype</p></figcaption></figure>
-      </div>
-  </div>
-  
-  <p class="instructions"><small>Scroll right to view all images</small></p>
-</div>
